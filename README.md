@@ -1,5 +1,6 @@
 # VTB_homework_4
 Interacting with dom and event handlers
+github pages hosting: https://iliazagorodniy.github.io/VTB_homework_4/
 
 1) реализовать форму с 4 полями:
 	- название поста (input)
